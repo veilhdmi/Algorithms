@@ -1,0 +1,15 @@
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.csproj.AssemblyReference.cache
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.AssemblyInfoInputs.cache
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.AssemblyInfo.cs
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.csproj.CoreCompileInputs.cache
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\bin\Debug\net6.0\Astar.exe
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\bin\Debug\net6.0\Astar.deps.json
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\bin\Debug\net6.0\Astar.runtimeconfig.json
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\bin\Debug\net6.0\Astar.dll
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\bin\Debug\net6.0\Astar.pdb
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.dll
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\refint\Astar.dll
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.pdb
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\Astar.genruntimeconfig.cache
+C:\Users\sally\Proyectos\Algorithms\Astar\Astar\obj\Debug\net6.0\ref\Astar.dll
