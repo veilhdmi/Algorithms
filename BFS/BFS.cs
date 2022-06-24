@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 //Crear una clase con 2 variables
-class Graph{
+class Grafo{
 	
 // N° de vertices
 private int _V; //creamos una variable para el numero de vertices
@@ -13,7 +13,7 @@ private int _V; //creamos una variable para el numero de vertices
 LinkedList<int>[] _adj; //crear una lista vacia que almacene la lista de adyacentes de cada vertice Ej: LinkedList<int>[vertice 0] lista_ady_v0
 
 
-public Graph(int V) //creamos una clase constructor con un parametro para la clase Graph
+public Grafo(int V) //creamos una clase constructor con un parametro para la clase Graph
 {
 	
 	_adj = new LinkedList<int>[V]; // establecer el valor inicial de la variable _adj como una lista enlazada con V elementos
@@ -74,7 +74,7 @@ public void BFS(int s) //recibe un parametro s, que será el vértice con el que
 
 static void Main(string[] args)
 {
-	Graph g = new Graph(4);
+	Grafo g = new Grafo(4);
 	
 	g.AddEdge(0, 1); //en la lista de 0 agregas un 1 [1]
 	g.AddEdge(0, 2); //en la lista de 0 agregas un 2 [1,2]
